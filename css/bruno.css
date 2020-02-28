@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css?family=Simonetta|Trade+Winds&display=swap" rel="stylesheet');
+body {
+    font-family: 'Simonetta', sans-serif;
+    font-size: 1.2em;
+}
+
+.text-title {
+    font-family: 'Trade Winds', sans-serif;
+    font-size: 3em;
+    color: #ffffff;
+}
+
+.text-subtitle {
+    font-family: 'Simonetta', sans-serif;
+    font-size: 1.6em;
+    color: #ffffff;
+}
+
+.bg-bunner {
+    background-image: linear-gradient(to bottom right, #be2edd, #130f40);
+}
