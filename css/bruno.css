@@ -19,3 +19,33 @@ body {
 .bg-bunner {
     background-image: linear-gradient(to bottom right, #be2edd, #130f40);
 }
+
+.text-footer {
+    font-size: 0.9em;
+}
+
+.bg-footer {
+    color: #ffffff;
+    background-color: #2f3542;
+}
+
+.color-what {
+    color: #31FD08;
+}
+
+.color-face {
+    color: #08E5FD;
+}
+
+.color-inst {
+    color: ;
+}
+
+.color-twi {
+    color: #00A2FF;
+}
+
+.lorem {
+    color: #ffffff;
+    font-size: 1em;
+}
