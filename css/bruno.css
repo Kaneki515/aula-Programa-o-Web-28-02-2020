@@ -37,10 +37,6 @@ body {
     color: #08E5FD;
 }
 
-.color-inst {
-    color: ;
-}
-
 .color-twi {
     color: #00A2FF;
 }
@@ -48,4 +44,8 @@ body {
 .lorem {
     color: #ffffff;
     font-size: 1em;
+}
+
+.bg-nav {
+    background-color: transparent;
 }
