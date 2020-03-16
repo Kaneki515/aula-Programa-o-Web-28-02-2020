@@ -20,6 +20,10 @@ body {
     background-image: linear-gradient(to bottom right, #be2edd, #130f40);
 }
 
+.bg-bunner-xs {
+    background-image: linear-gradient(to bottom right, #be2edd, #130f40);
+}
+
 .text-footer {
     font-size: 0.9em;
 }
@@ -39,6 +43,10 @@ body {
 
 .color-twi {
     color: #00A2FF;
+}
+
+.color-ins {
+    color: #f70a45;
 }
 
 .lorem {
