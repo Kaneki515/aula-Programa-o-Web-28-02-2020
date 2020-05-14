@@ -6,14 +6,18 @@ body {
 
 .text-title {
     font-family: 'Trade Winds', sans-serif;
-    font-size: 3em;
+    font-size: 3.5em;
     color: #ffffff;
 }
 
 .text-subtitle {
     font-family: 'Simonetta', sans-serif;
-    font-size: 1.6em;
+    font-size: 1.5em;
     color: #ffffff;
+}
+
+.pd {
+    font-family: 'Trade Winds', sans-serif;
 }
 
 .bg-bunner {
@@ -49,11 +53,11 @@ body {
     color: #f70a45;
 }
 
-.lorem {
-    color: #ffffff;
-    font-size: 1em;
+.bg-nav {
+    background-image: linear-gradient(to top right, #be2edd, #130f40);
 }
 
-.bg-nav {
-    background-color: transparent;
+.text-span {
+    z-index: 99;
+    position: absolute;
 }
